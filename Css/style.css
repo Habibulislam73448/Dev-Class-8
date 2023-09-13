@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family:  sans-serif;
+}
+
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,94,121,0.8099614845938375) 21%, rgba(0,212,255,1) 100%);
+    color: black;
+    height: 100vh;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 50px;
+}
+.conatainer{
+    width: 1170px;
+    margin: auto;
+}
